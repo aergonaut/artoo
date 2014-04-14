@@ -1,1 +1,1 @@
-web: bin/hubot -a xmpp -n artoo
+web: bin/hubot -a slack -n artoo
